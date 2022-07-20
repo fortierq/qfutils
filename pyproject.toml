@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "fqutils"
+name = "qfutils"
 version = "0.1.0"
 description = "Utilitaries"
 authors = ["Quentin Fortier <qpfortier@gmail.com>"]
